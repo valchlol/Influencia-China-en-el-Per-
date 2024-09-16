@@ -1,0 +1,58 @@
+body{
+    background-color: darkred;
+}
+.titulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.titulo p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:50px;
+    color:goldenrod;
+    font-weight: bold;
+    text-align:center;
+}
+.titulo img{
+    width:500px;
+    margin:50px;
+}
+.enlace{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.enlace a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color:goldenrod;
+    font-size:30px;
+}
+.subtitulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.subtitulo p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color:goldenrod;
+    font-size:30px;
+    font-weight: bold;
+}
+.conten{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.conten p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color:rgb(0, 0, 0);
+    font-size:30px;
+    font-weight: bold;
+    text-align: justify;
+}
+.conten img{
+    width:600px;
+    margin:60px;
